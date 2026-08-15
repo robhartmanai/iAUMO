@@ -100,4 +100,4 @@ Strong objections about safety, historical stewardship, or affected-community co
 
 ## How to comment
 
-Use the RFC review issue for public, non-sensitive feedback. Do not post personal cases or confidential information. Organizations or experts who need a private channel should wait until the maintainer publishes a valid, monitored contact method.
+Use the RFC review issue for public, non-sensitive feedback. Do not post personal cases or confidential information. Organizations or experts who need a private channel may contact [robhartmanai@pm.me](mailto:robhartmanai@pm.me), but should not send personal case details or sensitive information.
