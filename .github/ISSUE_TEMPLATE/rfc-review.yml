@@ -1,0 +1,33 @@
+name: RFC review
+description: Give public, non-sensitive feedback on a draft RFC
+title: "RFC review: "
+labels:
+  - rfc
+body:
+  - type: markdown
+    attributes:
+      value: Do not include personal, confidential, or sensitive information.
+  - type: input
+    id: rfc
+    attributes:
+      label: RFC
+      placeholder: RFC 0001
+    validations:
+      required: true
+  - type: textarea
+    id: perspective
+    attributes:
+      label: Perspective
+      description: Share relevant experience or community perspective only if you are comfortable doing so.
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: What should change, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks or missing voices
+      description: What harms, exclusions, or stakeholders should the RFC address?
