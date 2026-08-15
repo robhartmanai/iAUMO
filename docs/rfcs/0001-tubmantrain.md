@@ -3,7 +3,7 @@
 - Status: Draft
 - Created: 2026-08-15
 - Authors: iAUMO contributors
-- Discussion: GitHub issue linked from this RFC after publication
+- Discussion: [Issue #1](https://github.com/robhartmanai/iAUMO/issues/1)
 - Decision owner: Project maintainer, with affected-community and domain-expert review required
 
 ## Summary
