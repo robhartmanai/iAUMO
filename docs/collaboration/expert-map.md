@@ -34,4 +34,14 @@ This is a research list, not a list of partners or endorsements. No person or or
 
 ## Contact status
 
-No outreach has been sent. `127.0.0.1:25` is a loopback SMTP endpoint, not a public email address, and must not be presented as a way to contact the maintainer. Until a valid monitored address is supplied, use the repository's public issues for non-sensitive discussion only.
+The project contact is [robhartmanai@pm.me](mailto:robhartmanai@pm.me). Use the repository's public issues for non-sensitive discussion and the project address for private, non-urgent correspondence. Do not send personal case details or sensitive information through either channel.
+
+## Outreach log
+
+| Date | Institution | Request | Status |
+|---|---|---|---|
+| 2026-08-15 | Harriet Tubman Museum and Educational Center, Cambridge, Maryland | Review the working name and framing; recommend local community stewards and existing work | Sent; awaiting response |
+| 2026-08-15 | Harriet Tubman Museum of New Jersey | Review historical framing and safeguards; recommend an appropriate historian or cultural steward | Sent; awaiting response |
+| 2026-08-15 | National Underground Railroad Freedom Center | Route the RFC to an appropriate history, education, or community-engagement reviewer | Sent; awaiting response |
+
+These requests explicitly state that review does not imply affiliation or endorsement and that the project may be renamed or stopped.

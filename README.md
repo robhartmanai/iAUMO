@@ -15,6 +15,8 @@ TubmanTrain is not accepting personal, location, migration, medical, legal, or o
 - Review the [candidate expert and steward map](docs/collaboration/expert-map.md).
 - Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
+For private, non-urgent project correspondence, contact [robhartmanai@pm.me](mailto:robhartmanai@pm.me). Do not send personal case details or sensitive information.
+
 Substantive changes are proposed through branches and pull requests. Project decisions are recorded in RFCs.
 
 ## Status
